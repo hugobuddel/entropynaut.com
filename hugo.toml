@@ -1,4 +1,5 @@
-baseURL = 'https://entropynaut.com/'
+#baseURL = 'https://entropynaut.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Welcome to the Entroponaut'
 theme = 'risotto'
