@@ -1,6 +1,5 @@
 # Hugo files
 .hugo_build.lock
-public/
 
 # Temporary files
 *~
