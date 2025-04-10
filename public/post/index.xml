@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Welcome to Entroponaut</title>
-    <link>/</link>
-    <description>Recent content in Welcome on Welcome to Entroponaut</description>
+    <title>Posts on Welcome to Entroponaut</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Welcome to Entroponaut</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Hugo Buddelmeijer</copyright>
-    <lastBuildDate>Sun, 23 Feb 2025 22:55:15 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 23 Feb 2025 22:55:15 +0100</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-entropynaut&#34;&gt;Welcome to Entropynaut!&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Hugo Buddelmeijer, and I bring your data processing workflows to the next level. One persons entropy is another persons information.&lt;/p&gt;&#xA;&lt;p&gt;Contact information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 &lt;a href=&#34;mailto:info@entropynaut.com&#34;&gt;info@entropynaut.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🖆 Postbus 8113, 9702 Groningen&lt;/li&gt;&#xA;&lt;li&gt;🏛️: KVK 96547820&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 22:55:15 +0100</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>/post/welcome/</link>

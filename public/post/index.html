@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-	<meta name="generator" content="Hugo 0.140.2"><title>Welcome &ndash; Welcome to Entroponaut</title>
+    <head><title>Posts &ndash; Welcome to Entroponaut</title>
 <meta name="description" content="Hugo Buddelmeijer&#39;s website.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,7 +27,7 @@
 
 
 
-<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Welcome to Entroponaut">
+<link rel="alternate" type="application/rss+xml" href="/post/index.xml" title="Welcome to Entroponaut">
 
 </head>
 
@@ -42,7 +41,7 @@
     
     <li class="main-nav__item"><a class="nav-main-item" href="/about/" title="">About</a></li>
     
-    <li class="main-nav__item"><a class="nav-main-item" href="/post/" title="Posts">Posts</a></li>
+    <li class="main-nav__item"><a class="nav-main-item active" href="/post/" title="Posts">Posts</a></li>
     
     </ul>
 </nav>
@@ -50,15 +49,44 @@
 </header>
 
             <section class="page__body">
-    <h2 id="welcome-to-entroponaut">Welcome to Entroponaut!</h2>
-<p>I&rsquo;m Hugo Buddelmeijer, and I bring your data processing workflows to the next level. One persons entropy is another persons information.</p>
-<p>Contact information:</p>
-<ul>
-<li>📧 <a href="mailto:info@entropynaut.com">info@entropynaut.com</a></li>
-<li>🖆 Postbus 8113, 9702 Groningen</li>
-<li>🏛️: KVK 96547820</li>
-</ul>
+    <header class="content__header">
+        <h1>Posts</h1>
+        
+    </header>
 
+    
+    <article class="post">
+        <header class="post__header">
+            <h1><a href="/post/welcome/">Welcome</a></h1>
+            <p class="post__meta">
+                ,
+                <span class="date">22 February 2025</span>
+            </p>
+        </header>
+
+        <section class="post__summary">
+            <h2 id="welcome-to-entropynaut">Welcome to Entropynaut!</h2>
+<p>I&rsquo;m Hugo, and I bring your astronomical data processing workflows to the next level.</p>
+        </section>
+    </article>
+    
+    <article class="post">
+        <header class="post__header">
+            <h1><a href="/post/guixpodman/">Podman on Guix</a></h1>
+            <p class="post__meta">
+                ,
+                <span class="date">10 January 2025</span>
+            </p>
+        </header>
+
+        <section class="post__summary">
+            <h2 id="podman-on-guix">Podman on Guix</h2>
+<p>Today was the day to switch from Docker to Podman!</p>
+<p>This is the first article in the sharpening-the-saw series. Personally stories about keeping your tools up-to-date.</p>
+<p>The trigger to move away from docker was fairly trivial: I <a href="https://github.com/tcort/markdown-link-check/pull/440">couldn&rsquo;t create a volume from <code>.</code></a> using docker 20.10. It was possible to use <code>$(pwd)</code> instead of a period, but it was the thought that mattered. Then it became clear that <a href="https://endoflife.date/docker-engine">docker engine 20.10 is end-of-life since December 2023</a>&hellip;</p>
+        </section>
+    </article>
+    
 
             </section>
 
@@ -86,6 +114,8 @@
 </div>
                 <hr>
                 <div class="aside__content">
+    <p>Example posts demonstrating hugo&#39;s markup features</p>
+
                 </div>
             </section>
 
@@ -98,6 +128,8 @@
     
       
     
+      
+        
       
     
     
