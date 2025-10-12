@@ -3,7 +3,7 @@ date = '2025-02-22T22:55:15+01:00'
 draft = false
 title = 'Welcome'
 +++
-## Welcome to Entroponaut!
+## Welcome to Entropynaut!
 
 I'm Hugo Buddelmeijer, and I bring your data processing workflows to the next level. One persons entropy is another persons information.
 

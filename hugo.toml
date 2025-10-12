@@ -1,7 +1,7 @@
 #baseURL = 'https://entropynaut.com/'
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Welcome to Entroponaut'
+title = 'Welcome to Entropynaut'
 theme = 'risotto'
 author = "Hugo Buddelmeijer"
 copyright = "© Hugo Buddelmeijer"
