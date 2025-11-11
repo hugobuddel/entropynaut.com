@@ -5,7 +5,7 @@ title = 'About'
 +++
 ## Welcome to Entropynaut!
 
-I'm Hugo Buddelmeijer, and I bring your data processing workflows to the next level. One persons entropy is another persons information.
+Entropynaut is currently a one-person company, ran by Hugo Buddelmeijer.
 
 Contact information:
 
