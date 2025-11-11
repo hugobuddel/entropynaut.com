@@ -1,7 +1,7 @@
 services:
   server:
     image: docker.io/hugomods/hugo:exts
-    command: server -D
+    command: server -D --disableFastRender --renderToMemory
     volumes:
       - ./:/src
       - ~/hugo_cache:/tmp/hugo_cache

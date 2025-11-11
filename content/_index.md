@@ -5,7 +5,7 @@ title = 'Welcome'
 +++
 ## Welcome to Entropynaut!
 
-I'm Hugo Buddelmeijer, and I bring your data processing workflows to the next level. One persons entropy is another persons information.
+We bring your data processing workflows to the next level. One persons entropy is another persons information.
 
 Contact information:
 
