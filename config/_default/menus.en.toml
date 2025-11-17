@@ -26,16 +26,28 @@
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
+  name = "METIS AIT Archive"
   parent = "Projects"
-  pageRef = "posts"
+  pageRef = "projects/metisaitarchive"
   weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Telluric Correction"
+  parent = "Projects"
+  pageRef = "projects/telluriccorrection"
+  weight = 30
+
+[[main]]
+  name = "Talks"
+  parent = "Projects"
+  pageRef = "projects/talks"
+  weight = 40
+
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 40
 
 #[[subnavigation]]
 #  name = "An interesting topic"

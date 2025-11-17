@@ -7,8 +7,9 @@ title = 'Welcome'
 
 We bring your data processing workflows to the next level. One persons entropy is another persons information.
 
-Contact information:
+Hire us for your astronomical data reduction and archiving!
 
-* 📧 info@entropynaut.com
-* 🖆 Postbus 8113, 9702 Groningen
-* 🏛️: KVK 96547820
+
+📧 info@entropynaut.com
+🖆 Postbus 8113, 9702 Groningen
+🏛️: KVK 96547820
