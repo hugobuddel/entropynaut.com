@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Entropynaut</title>
+    <link>/</link>
+    <description>Recent content in Welcome on Entropynaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@entropynaut.com (Hugo Buddelmeijer)</managingEditor>
+    <webMaster>info@entropynaut.com (Hugo Buddelmeijer)</webMaster>
+    <copyright>© 2025 Hugo Buddelmeijer</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 22:55:15 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>METIS AIT Archive</title>
+      <link>/projects/metisaitarchive/</link>
+      <pubDate>Mon, 10 Nov 2025 23:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/projects/metisaitarchive/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Telluric Correction</title>
+      <link>/projects/telluriccorr/</link>
+      <pubDate>Mon, 10 Nov 2025 23:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/projects/telluriccorr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/projects/talks/</link>
+      <pubDate>Fri, 10 Oct 2025 23:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/projects/talks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 23 Feb 2025 22:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 23 Feb 2025 22:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Sat, 22 Feb 2025 22:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/posts/welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Podman on Guix</title>
+      <link>/posts/guixpodman/</link>
+      <pubDate>Fri, 10 Jan 2025 23:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/posts/guixpodman/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

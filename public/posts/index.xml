@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Entropynaut</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Entropynaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@entropynaut.com (Hugo Buddelmeijer)</managingEditor>
+    <webMaster>info@entropynaut.com (Hugo Buddelmeijer)</webMaster>
+    <copyright>© 2025 Hugo Buddelmeijer</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 22:55:15 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Sat, 22 Feb 2025 22:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/posts/welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Podman on Guix</title>
+      <link>/posts/guixpodman/</link>
+      <pubDate>Fri, 10 Jan 2025 23:55:15 +0100</pubDate>
+      <author>info@entropynaut.com (Hugo Buddelmeijer)</author>
+      <guid>/posts/guixpodman/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
