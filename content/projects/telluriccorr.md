@@ -6,6 +6,6 @@ title = 'Telluric Correction'
 
 ## Telluric Correction
 
-The telluric correction of the Very Large Telescope is being updated to be suitable for the Extremely Large Telescope.
+Hugo Buddelmeijer is currently working on updating the telluric correction of the Very Large Telescope to be suitable for the Extremely Large Telescope, however not in the capacity of Entropynaut.
 
-In particular, a blind telluric correction is being implemented.
+In particular, a blind telluric correction is being implemented, that allows the correction to be performed without any fitting.

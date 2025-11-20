@@ -6,13 +6,8 @@ title = 'METIS AIT Archive'
 
 ## METIS AIT Archive
 
-The METIS AIT Archive will be used to store the data for the Mid-infrared E-ELT Imager and Spectrograph (METIS).
+The METIS AIT Archive will be used to store the data produced during the Assembly, Integration and Test (AIT) phase of the Mid-infrared E-ELT Imager and Spectrograph (METIS).
 
-See https://github.com/AstarVienna/MetisWISE
+Entropynaut won the bid for developing the METIS AIT Archive software. A prototype is available on https://github.com/AstarVienna/MetisWISE.
 
-The server consists of two components
-
-- a metadata database, and
-- a bulk data storage for the FITS files.
-
-The core is a Python library that contains the data model.
+The core technology is a Python library that contains the data model, which maps the data to SQL tables.
