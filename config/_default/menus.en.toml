@@ -34,7 +34,7 @@
 [[main]]
   name = "Telluric Correction"
   parent = "Projects"
-  pageRef = "projects/telluriccorrection"
+  pageRef = "projects/telluriccorr"
   weight = 30
 
 [[main]]
